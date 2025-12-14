@@ -170,6 +170,27 @@ The deployed app is **publicly accessible**, **persistent**, and **shareable**.
 
 ---
 
+## 📓 Training Notebook
+
+The complete training and evaluation pipeline for the RoBERTa-based sentiment
+analysis model is documented in the following Jupyter notebook:
+
+📘 `notebooks/Sentiment_Analysis_on_Movie_Reviews_using_RoBERTa.ipynb`
+
+The notebook covers:
+- Dataset loading and preprocessing
+- Tokenization using RoBERTa tokenizer
+- Custom PyTorch Dataset and DataLoader
+- Model architecture with RoBERTa encoder
+- Training and validation loops
+- Evaluation using Accuracy and Macro F1 score
+- Model and tokenizer saving for deployment
+
+This notebook provides full transparency into the model development process
+and serves as a reproducible reference for academic and research purposes.
+
+---
+
 ## 🎯 Key Highlights
 
 * End-to-end ML pipeline (training → evaluation → deployment)
