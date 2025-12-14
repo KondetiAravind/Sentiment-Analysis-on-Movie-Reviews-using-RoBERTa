@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (not needed for deployment)
+Train_and_Test/
+
+# Archives
+model.zip
+
+# OS files
+.DS_Store
