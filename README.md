@@ -8,8 +8,9 @@ The system classifies a given movie review into **five sentiment categories** an
 
 ## 🚀 Live Demo
 
-🔗 **Deployed Application (Streamlit Cloud)**
-👉 [https://sentiment-analysis-roberta-streamlit.streamlit.app](https://sentiment-analysis-roberta-streamlit.streamlit.app)
+🔗 **Deployed Application (Streamlit Cloud)**  
+👉 https://sentiment-analysis-on-movie-reviews-roberta.streamlit.app/
+
 <p align="center">
   <img src="assets/ui_home.png" width="700">
 </p>
